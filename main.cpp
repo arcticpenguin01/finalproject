@@ -40,6 +40,7 @@ void foodSelect(string fileName){
             case 1:
                 total+=tourOfItaly;
                 sampleCalorie<<tourOfItaly;
+                break;
             case 2:
                 total+=chickenAlfredo;
                 sampleCalorie<<chickenAlfredo;
